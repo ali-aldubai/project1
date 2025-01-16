@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&family=Cairo:wght@200..1000&family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
  * {
     padding: 0;
@@ -86,9 +86,6 @@ header .container nav {
 }
 
 @media (max-width: 768px) {
-   header {
-      position: relative;
-   }
    header .container nav {
       justify-content: end;
    }
